@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: eoms-api
 Implementation-Version: 1.0-SNAPSHOT
-Built-By: TCODE
+Built-By: TTCODE
 Implementation-Vendor-Id: eoms.cn
-Build-Jdk: 1.8.0_73
+Build-Jdk: 1.8.0_201
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/eoms-parent/eoms-api
 Created-By: Maven Integration for Eclipse

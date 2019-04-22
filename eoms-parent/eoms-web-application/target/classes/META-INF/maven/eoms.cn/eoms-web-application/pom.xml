@@ -18,7 +18,7 @@
 		</dependencies>
 	</dependencyManagement>
 	<build>
-	<finalName>eoms-api</finalName>
+	<finalName>eoms-web-application</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
