@@ -17,6 +17,18 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
+	<dependencies>
+		<dependency>
+			<groupId>eoms.cn</groupId>
+		    <artifactId>eoms-repository</artifactId>
+		    <version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>eoms.cn</groupId>
+		    <artifactId>eoms-commons</artifactId>
+		    <version>${project.version}</version>
+		</dependency>
+	</dependencies>
 	<build>
 	<finalName>eoms-business</finalName>
 		<plugins>

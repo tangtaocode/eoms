@@ -23,9 +23,19 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-web</artifactId>
 	</dependency>
+	<dependency>
+		<groupId>eoms.cn</groupId>
+	    <artifactId>eoms-business</artifactId>
+	    <version>${project.version}</version>
+	</dependency>
+	<dependency>
+		<groupId>eoms.cn</groupId>
+	    <artifactId>eoms-commons</artifactId>
+	    <version>${project.version}</version>
+	</dependency>
 </dependencies>
 	
-	<build>
+<build>
 	<finalName>eoms-api</finalName>
 		<plugins>
 			<plugin>

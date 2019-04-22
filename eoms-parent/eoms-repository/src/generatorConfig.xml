@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE generatorConfiguration PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN" "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" >
+<generatorConfiguration>
+	<classPathEntry
+		location="D:\repository\mysql\mysql-connector-java\5.1.47\mysql-connector-java-5.1.47.jar" />
+	<context id="generator-code">
+	<commentGenerator>           
+            <!-- 是否去除自动生成的注释 true：是 ： false:否 -->             
+            <property name="suppressAllComments" value="true"/>      
+         </commentGenerator>  
+         
+		<jdbcConnection driverClass="com.mysql.jdbc.Driver"
+			connectionURL="jdbc:mysql://10.216.3.208:3306/eoms_devp" userId="root"
+			password="Allinpay" />
+		<javaModelGenerator targetPackage="eoms.cn.repository.entity"
+			targetProject="eoms-repository/src/main/java" />
+		<sqlMapGenerator targetPackage="mybatis"
+			targetProject="eoms-repository/src/main/resources" />
+		<javaClientGenerator targetPackage="eoms.cn.repository.mapper"
+			targetProject="eoms-repository/src/main/java" type="XMLMAPPER" />
+		
+		<table tableName="p_everyday_everyseat_achievement" domainObjectName="EverydayEeveryseatAchievement"
+
+			enableCountByExample="false" enableUpdateByExample="false"
+			enableDeleteByExample="false" enableSelectByExample="false"
+			selectByExampleQueryId="false"></table>
+	</context>
+</generatorConfiguration>

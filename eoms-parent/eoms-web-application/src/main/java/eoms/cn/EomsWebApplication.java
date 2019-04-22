@@ -1,9 +1,13 @@
- package eoms.cn;
+package eoms.cn;
 
- public class EomsWebApplication {
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EomsWebApplication {
 
     public static void main(String[] args) {
-
+        SpringApplication.run(EomsWebApplication.class, args);
     }
 
 }
