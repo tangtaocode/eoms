@@ -1,0 +1,124 @@
+2019-04-23 14:57:45,745 INFO (StartupInfoLogger.java:50)- Starting EomsWebApplication on DESKTOP-EKM0QLR with PID 8072 (D:\GitRepository\eoms\eoms-parent\eoms-web-application\target\classes started by TTCODE in D:\GitRepository\eoms\eoms-parent\eoms-web-application)
+2019-04-23 14:57:45,753 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-23 14:57:45,755 INFO (SpringApplication.java:684)- The following profiles are active: dev
+2019-04-23 15:01:27,167 INFO main - Starting EomsWebApplication on DESKTOP-EKM0QLR with PID 4244 (D:\GitRepository\eoms\eoms-parent\eoms-web-application\target\classes started by TTCODE in D:\GitRepository\eoms\eoms-parent\eoms-web-application)
+2019-04-23 15:01:27,181 DEBUG main - Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-23 15:01:27,183 INFO main - The following profiles are active: dev
+2019-04-23 15:04:33,326 INFO (StartupInfoLogger.java:50)- Starting EomsWebApplication on DESKTOP-EKM0QLR with PID 11980 (D:\GitRepository\eoms\eoms-parent\eoms-web-application\target\classes started by TTCODE in D:\GitRepository\eoms\eoms-parent\eoms-web-application)
+2019-04-23 15:04:33,334 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-23 15:04:33,336 INFO (SpringApplication.java:684)- The following profiles are active: dev
+2019-04-23 15:05:12,191 INFO main (StartupInfoLogger.java:50)- Starting EomsWebApplication on DESKTOP-EKM0QLR with PID 1088 (D:\GitRepository\eoms\eoms-parent\eoms-web-application\target\classes started by TTCODE in D:\GitRepository\eoms\eoms-parent\eoms-web-application)
+2019-04-23 15:05:12,199 DEBUG main (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-23 15:05:12,201 INFO main (SpringApplication.java:684)- The following profiles are active: dev
+2019-04-23 15:05:26,719 INFO main (StartupInfoLogger.java:50)- Starting EomsWebApplication on DESKTOP-EKM0QLR with PID 2720 (D:\GitRepository\eoms\eoms-parent\eoms-web-application\target\classes started by TTCODE in D:\GitRepository\eoms\eoms-parent\eoms-web-application)
+2019-04-23 15:05:26,729 DEBUG main (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-23 15:05:26,731 INFO main (SpringApplication.java:684)- The following profiles are active: dev
+2019-04-23 15:09:37,448 INFO main (StartupInfoLogger.java:50)- Starting EomsWebApplication on DESKTOP-EKM0QLR with PID 5476 (D:\GitRepository\eoms\eoms-parent\eoms-web-application\target\classes started by TTCODE in D:\GitRepository\eoms\eoms-parent\eoms-web-application)
+2019-04-23 15:09:37,455 DEBUG main (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-23 15:09:37,457 INFO main (SpringApplication.java:684)- The following profiles are active: dev
+2019-04-23 15:10:54,455 INFO main (StartupInfoLogger.java:59)- Started EomsWebApplication in 77.808 seconds (JVM running for 78.775)
+2019-04-23 15:19:53,950 INFO main (StartupInfoLogger.java:50)- Starting EomsWebApplication on DESKTOP-EKM0QLR with PID 9980 (D:\GitRepository\eoms\eoms-parent\eoms-web-application\target\classes started by TTCODE in D:\GitRepository\eoms\eoms-parent\eoms-web-application)
+2019-04-23 15:19:53,959 DEBUG main (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-23 15:19:53,963 INFO main (SpringApplication.java:684)- The following profiles are active: dev
+2019-04-23 16:04:09,756 INFO main (StartupInfoLogger.java:50)- Starting EomsWebApplication on DESKTOP-EKM0QLR with PID 8460 (D:\GitRepository\eoms\eoms-parent\eoms-web-application\target\classes started by TTCODE in D:\GitRepository\eoms\eoms-parent\eoms-web-application)
+2019-04-23 16:04:09,764 DEBUG main (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-23 16:04:09,775 INFO main (SpringApplication.java:684)- The following profiles are active: dev
+2019-04-23 16:04:15,452 INFO main (StartupInfoLogger.java:59)- Started EomsWebApplication in 6.245 seconds (JVM running for 6.722)
+2019-04-23 16:07:50,239 INFO main (StartupInfoLogger.java:50)- Starting EomsWebApplication on DESKTOP-EKM0QLR with PID 920 (D:\GitRepository\eoms\eoms-parent\eoms-web-application\target\classes started by TTCODE in D:\GitRepository\eoms\eoms-parent\eoms-web-application)
+2019-04-23 16:07:50,245 DEBUG main (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-23 16:07:50,247 INFO main (SpringApplication.java:684)- The following profiles are active: dev
+2019-04-23 16:09:02,182 INFO main (StartupInfoLogger.java:59)- Started EomsWebApplication in 72.755 seconds (JVM running for 73.626)
+2019-04-23 16:13:42,014 ERROR http-nio-7002-exec-7 (GlobalExceptionHandler.java:127)- Capture Exception By GlobalExceptionHandler: Code: 1 Detail: Could not open JDBC Connection for transaction; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown database 'spring-boot'
+2019-04-23 16:14:52,645 INFO main (StartupInfoLogger.java:50)- Starting EomsWebApplication on DESKTOP-EKM0QLR with PID 8056 (D:\GitRepository\eoms\eoms-parent\eoms-web-application\target\classes started by TTCODE in D:\GitRepository\eoms\eoms-parent\eoms-web-application)
+2019-04-23 16:14:52,652 DEBUG main (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-23 16:14:52,654 INFO main (SpringApplication.java:684)- The following profiles are active: dev
+2019-04-23 16:15:03,570 INFO main (StartupInfoLogger.java:59)- Started EomsWebApplication in 11.725 seconds (JVM running for 12.622)
+2019-04-23 16:15:13,672 ERROR http-nio-7002-exec-1 (GlobalExceptionHandler.java:127)- Capture Exception By GlobalExceptionHandler: Code: 1 Detail: Invalid bound statement (not found): eoms.cn.repository.mapper.EverydayEeveryseatAchievementMapper.insert
+2019-04-23 16:22:23,079 INFO main (StartupInfoLogger.java:50)- Starting EomsWebApplication on DESKTOP-EKM0QLR with PID 1436 (D:\GitRepository\eoms\eoms-parent\eoms-web-application\target\classes started by TTCODE in D:\GitRepository\eoms\eoms-parent\eoms-web-application)
+2019-04-23 16:22:23,086 DEBUG main (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-23 16:22:23,088 INFO main (SpringApplication.java:684)- The following profiles are active: dev
+2019-04-23 16:22:30,353 INFO main (StartupInfoLogger.java:59)- Started EomsWebApplication in 8.06 seconds (JVM running for 9.003)
+2019-04-23 16:22:43,113 ERROR http-nio-7002-exec-7 (GlobalExceptionHandler.java:127)- Capture Exception By GlobalExceptionHandler: Code: 1 Detail: Invalid bound statement (not found): eoms.cn.repository.mapper.EverydayEeveryseatAchievementMapper.insert
+2019-04-23 16:23:59,216 ERROR http-nio-7002-exec-4 (GlobalExceptionHandler.java:127)- Capture Exception By GlobalExceptionHandler: Code: 1 Detail: Invalid bound statement (not found): eoms.cn.repository.mapper.EverydayEeveryseatAchievementMapper.insert
+2019-04-23 16:32:00,805 INFO main (StartupInfoLogger.java:50)- Starting EomsWebApplication on DESKTOP-EKM0QLR with PID 3168 (D:\GitRepository\eoms\eoms-parent\eoms-web-application\target\classes started by TTCODE in D:\GitRepository\eoms\eoms-parent\eoms-web-application)
+2019-04-23 16:32:00,812 DEBUG main (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-23 16:32:00,814 INFO main (SpringApplication.java:684)- The following profiles are active: dev
+2019-04-23 16:34:43,862 INFO main (StartupInfoLogger.java:59)- Started EomsWebApplication in 163.828 seconds (JVM running for 164.819)
+2019-04-23 16:42:17,625 INFO main (StartupInfoLogger.java:50)- Starting EomsWebApplication on DESKTOP-EKM0QLR with PID 5852 (D:\GitRepository\eoms\eoms-parent\eoms-web-application\target\classes started by TTCODE in D:\GitRepository\eoms\eoms-parent\eoms-web-application)
+2019-04-23 16:42:17,669 DEBUG main (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-23 16:42:17,671 INFO main (SpringApplication.java:684)- The following profiles are active: dev
+2019-04-23 16:43:55,584 INFO main (StartupInfoLogger.java:50)- Starting EomsWebApplication on DESKTOP-EKM0QLR with PID 12008 (D:\GitRepository\eoms\eoms-parent\eoms-web-application\target\classes started by TTCODE in D:\GitRepository\eoms\eoms-parent\eoms-web-application)
+2019-04-23 16:43:55,591 DEBUG main (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-23 16:43:55,593 INFO main (SpringApplication.java:684)- The following profiles are active: dev
+2019-04-23 16:44:02,766 INFO main (StartupInfoLogger.java:59)- Started EomsWebApplication in 8.016 seconds (JVM running for 8.938)
+2019-04-23 16:44:12,582 DEBUG http-nio-7002-exec-1 (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO p_everyday_everyseat_achievement ( id,project_id,product_id,dynamic1,dynamic2,dynamicn ) VALUES( ?,?,?,?,?,? ) 
+2019-04-23 16:44:12,943 DEBUG http-nio-7002-exec-1 (BaseJdbcLogger.java:159)- ==> Parameters: 145993939915112449(Long), 145993939915114497(Long), 145993939915113473(Long), null, null, null
+2019-04-23 16:44:13,016 ERROR http-nio-7002-exec-1 (GlobalExceptionHandler.java:127)- Capture Exception By GlobalExceptionHandler: Code: 1 Detail: 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'dynamic1' cannot be null
+### The error may involve eoms.cn.repository.mapper.EverydayEeveryseatAchievementMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO p_everyday_everyseat_achievement  ( id,project_id,product_id,dynamic1,dynamic2,dynamicn ) VALUES( ?,?,?,?,?,? )
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'dynamic1' cannot be null
+; ]; Column 'dynamic1' cannot be null; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'dynamic1' cannot be null
+2019-04-23 16:46:35,129 INFO main (StartupInfoLogger.java:50)- Starting EomsWebApplication on DESKTOP-EKM0QLR with PID 10936 (D:\GitRepository\eoms\eoms-parent\eoms-web-application\target\classes started by TTCODE in D:\GitRepository\eoms\eoms-parent\eoms-web-application)
+2019-04-23 16:46:35,141 DEBUG main (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-23 16:46:35,143 INFO main (SpringApplication.java:684)- The following profiles are active: dev
+2019-04-23 16:46:42,361 INFO main (StartupInfoLogger.java:59)- Started EomsWebApplication in 8.605 seconds (JVM running for 9.59)
+2019-04-23 16:47:04,538 DEBUG http-nio-7002-exec-7 (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO p_everyday_everyseat_achievement ( id,project_id,product_id,dynamic1,dynamic2,dynamicn ) VALUES( ?,?,?,?,?,? ) 
+2019-04-23 16:47:04,740 DEBUG http-nio-7002-exec-7 (BaseJdbcLogger.java:159)- ==> Parameters: 145994124598706177(Long), 145994124598708225(Long), 145994124598707201(Long), dong1(String), dong2(String), dongn(String)
+2019-04-23 16:47:04,743 DEBUG http-nio-7002-exec-7 (BaseJdbcLogger.java:159)- <==    Updates: 1
+2019-04-23 16:47:04,789 DEBUG http-nio-7002-exec-7 (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT count(0) FROM p_everyday_everyseat_achievement WHERE id = ? 
+2019-04-23 16:47:04,822 DEBUG http-nio-7002-exec-7 (BaseJdbcLogger.java:159)- ==> Parameters: 145994124598706177(String)
+2019-04-23 16:47:04,839 DEBUG http-nio-7002-exec-7 (BaseJdbcLogger.java:159)- <==      Total: 1
+2019-04-23 17:02:50,461 INFO main (StartupInfoLogger.java:50)- Starting EomsWebApplication on DESKTOP-EKM0QLR with PID 8292 (D:\GitRepository\eoms\eoms-parent\eoms-web-application\target\classes started by TTCODE in D:\GitRepository\eoms\eoms-parent\eoms-web-application)
+2019-04-23 17:02:50,468 DEBUG main (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-23 17:02:50,470 INFO main (SpringApplication.java:684)- The following profiles are active: dev
+2019-04-23 17:02:57,763 INFO main (StartupInfoLogger.java:59)- Started EomsWebApplication in 8.056 seconds (JVM running for 9.011)
+2019-04-23 17:03:06,362 DEBUG http-nio-7002-exec-1 (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO p_everyday_everyseat_achievement ( id,project_id,product_id,dynamic1,dynamic2,dynamicn ) VALUES( ?,?,?,?,?,? ) 
+2019-04-23 17:03:06,734 DEBUG http-nio-7002-exec-1 (BaseJdbcLogger.java:159)- ==> Parameters: 145995157538340865(Long), 145995157538342913(Long), 145995157538341889(Long), dong1(String), dong2(String), dongn(String)
+2019-04-23 17:03:06,738 DEBUG http-nio-7002-exec-1 (BaseJdbcLogger.java:159)- <==    Updates: 1
+2019-04-23 17:03:06,794 DEBUG http-nio-7002-exec-1 (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT count(0) FROM p_everyday_everyseat_achievement WHERE id = ? 
+2019-04-23 17:03:06,829 DEBUG http-nio-7002-exec-1 (BaseJdbcLogger.java:159)- ==> Parameters: 145995157538340865(String)
+2019-04-23 17:03:06,849 DEBUG http-nio-7002-exec-1 (BaseJdbcLogger.java:159)- <==      Total: 1
+2019-04-23 17:03:06,855 ERROR http-nio-7002-exec-1 (GlobalExceptionHandler.java:127)- Capture Exception By GlobalExceptionHandler: Code: 999 Detail: null
+2019-04-23 17:03:57,320 DEBUG http-nio-7002-exec-2 (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO p_everyday_everyseat_achievement ( id,project_id,product_id,dynamic1,dynamic2,dynamicn ) VALUES( ?,?,?,?,?,? ) 
+2019-04-23 17:03:57,322 DEBUG http-nio-7002-exec-2 (BaseJdbcLogger.java:159)- ==> Parameters: 145995212299173889(Long), 145995212299175937(Long), 145995212299174913(Long), dong1(String), dong2(String), dongn(String)
+2019-04-23 17:03:57,324 DEBUG http-nio-7002-exec-2 (BaseJdbcLogger.java:159)- <==    Updates: 1
+2019-04-23 17:03:57,325 DEBUG http-nio-7002-exec-2 (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT count(0) FROM p_everyday_everyseat_achievement WHERE id = ? 
+2019-04-23 17:03:57,326 DEBUG http-nio-7002-exec-2 (BaseJdbcLogger.java:159)- ==> Parameters: 145995212299173889(String)
+2019-04-23 17:03:57,328 DEBUG http-nio-7002-exec-2 (BaseJdbcLogger.java:159)- <==      Total: 1
+2019-04-23 17:03:57,331 ERROR http-nio-7002-exec-2 (GlobalExceptionHandler.java:127)- Capture Exception By GlobalExceptionHandler: Code: 999 Detail: null
+2019-04-23 17:07:25,956 INFO main (StartupInfoLogger.java:50)- Starting EomsWebApplication on DESKTOP-EKM0QLR with PID 10548 (D:\GitRepository\eoms\eoms-parent\eoms-web-application\target\classes started by TTCODE in D:\GitRepository\eoms\eoms-parent\eoms-web-application)
+2019-04-23 17:07:25,962 DEBUG main (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-23 17:07:25,964 INFO main (SpringApplication.java:684)- The following profiles are active: dev
+2019-04-23 17:07:33,352 INFO main (StartupInfoLogger.java:59)- Started EomsWebApplication in 8.178 seconds (JVM running for 9.139)
+2019-04-23 17:07:52,800 DEBUG http-nio-7002-exec-1 (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO p_everyday_everyseat_achievement ( id,project_id,product_id,dynamic1,dynamic2,dynamicn ) VALUES( ?,?,?,?,?,? ) 
+2019-04-23 17:07:53,153 DEBUG http-nio-7002-exec-1 (BaseJdbcLogger.java:159)- ==> Parameters: 145995464628502529(Long), 145995464628504577(Long), 145995464628503553(Long), dong1(String), dong2(String), dongn(String)
+2019-04-23 17:07:53,156 DEBUG http-nio-7002-exec-1 (BaseJdbcLogger.java:159)- <==    Updates: 1
+2019-04-23 17:07:53,202 DEBUG http-nio-7002-exec-1 (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT count(0) FROM p_everyday_everyseat_achievement WHERE id = ? 
+2019-04-23 17:07:53,240 DEBUG http-nio-7002-exec-1 (BaseJdbcLogger.java:159)- ==> Parameters: 145995464628502529(String)
+2019-04-23 17:07:53,257 DEBUG http-nio-7002-exec-1 (BaseJdbcLogger.java:159)- <==      Total: 1
+2019-04-23 17:07:53,262 DEBUG http-nio-7002-exec-1 (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT id,project_id,product_id,dynamic1,dynamic2,dynamicn FROM p_everyday_everyseat_achievement WHERE id = ? limit ?,? 
+2019-04-23 17:07:53,265 DEBUG http-nio-7002-exec-1 (BaseJdbcLogger.java:159)- ==> Parameters: 145995464628502529(String), 0(Integer), 10(Integer)
+2019-04-23 17:07:53,267 DEBUG http-nio-7002-exec-1 (BaseJdbcLogger.java:159)- <==      Total: 1
+2019-04-23 17:07:53,272 ERROR http-nio-7002-exec-1 (GlobalExceptionHandler.java:127)- Capture Exception By GlobalExceptionHandler: Code: 999 Detail: null
+2019-04-23 17:08:41,192 DEBUG http-nio-7002-exec-3 (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO p_everyday_everyseat_achievement ( id,project_id,product_id,dynamic1,dynamic2,dynamicn ) VALUES( ?,?,?,?,?,? ) 
+2019-04-23 17:08:41,194 DEBUG http-nio-7002-exec-3 (BaseJdbcLogger.java:159)- ==> Parameters: 145995517241851905(Long), 145995517241853953(Long), 145995517241852929(Long), dong1(String), dong2(String), dongn(String)
+2019-04-23 17:08:41,196 DEBUG http-nio-7002-exec-3 (BaseJdbcLogger.java:159)- <==    Updates: 1
+2019-04-23 17:08:41,197 DEBUG http-nio-7002-exec-3 (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT count(0) FROM p_everyday_everyseat_achievement WHERE id = ? 
+2019-04-23 17:08:41,199 DEBUG http-nio-7002-exec-3 (BaseJdbcLogger.java:159)- ==> Parameters: 145995517241851905(String)
+2019-04-23 17:08:41,200 DEBUG http-nio-7002-exec-3 (BaseJdbcLogger.java:159)- <==      Total: 1
+2019-04-23 17:08:41,202 DEBUG http-nio-7002-exec-3 (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT id,project_id,product_id,dynamic1,dynamic2,dynamicn FROM p_everyday_everyseat_achievement WHERE id = ? limit ?,? 
+2019-04-23 17:08:41,203 DEBUG http-nio-7002-exec-3 (BaseJdbcLogger.java:159)- ==> Parameters: 145995517241851905(String), 0(Integer), 10(Integer)
+2019-04-23 17:08:41,205 DEBUG http-nio-7002-exec-3 (BaseJdbcLogger.java:159)- <==      Total: 1
+2019-04-23 17:08:41,208 ERROR http-nio-7002-exec-3 (GlobalExceptionHandler.java:127)- Capture Exception By GlobalExceptionHandler: Code: 999 Detail: null
+2019-04-23 17:20:44,124 INFO main (StartupInfoLogger.java:50)- Starting EomsWebApplication on DESKTOP-EKM0QLR with PID 5048 (D:\GitRepository\eoms\eoms-parent\eoms-web-application\target\classes started by TTCODE in D:\GitRepository\eoms\eoms-parent\eoms-web-application)
+2019-04-23 17:20:44,131 DEBUG main (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-23 17:20:44,134 INFO main (SpringApplication.java:684)- The following profiles are active: dev
+2019-04-23 17:20:51,597 INFO main (StartupInfoLogger.java:59)- Started EomsWebApplication in 8.289 seconds (JVM running for 9.214)
+2019-04-23 17:21:21,936 DEBUG http-nio-7002-exec-9 (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO p_everyday_everyseat_achievement ( id,project_id,product_id,dynamic1,dynamic2,dynamicn ) VALUES( ?,?,?,?,?,? ) 
+2019-04-23 17:21:22,132 DEBUG http-nio-7002-exec-9 (BaseJdbcLogger.java:159)- ==> Parameters: 145996333285638145(Long), 145996333285640193(Long), 145996333285639169(Long), dong1(String), dong2(String), dongn(String)
+2019-04-23 17:21:22,134 DEBUG http-nio-7002-exec-9 (BaseJdbcLogger.java:159)- <==    Updates: 1
+2019-04-23 17:21:22,178 DEBUG http-nio-7002-exec-9 (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT count(0) FROM p_everyday_everyseat_achievement WHERE id = ? 
+2019-04-23 17:21:22,213 DEBUG http-nio-7002-exec-9 (BaseJdbcLogger.java:159)- ==> Parameters: 145996333285638145(String)
+2019-04-23 17:21:22,235 DEBUG http-nio-7002-exec-9 (BaseJdbcLogger.java:159)- <==      Total: 1

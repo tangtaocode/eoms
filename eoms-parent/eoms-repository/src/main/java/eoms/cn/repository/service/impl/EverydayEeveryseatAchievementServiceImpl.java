@@ -15,9 +15,9 @@ public class EverydayEeveryseatAchievementServiceImpl implements EverydayEeverys
     private EverydayEeveryseatAchievementMapper everydayEeveryseatAchievementMapper;
 
     @Override
-    public int insertList(List<EverydayEeveryseatAchievement> recordList) {
+    public int insertBatchList(List<EverydayEeveryseatAchievement> recordList) {
         // TODO Auto-generated method stub
-        return everydayEeveryseatAchievementMapper.insertList(recordList);
+        return everydayEeveryseatAchievementMapper.insertBatchList(recordList);
     }
 
     @Override

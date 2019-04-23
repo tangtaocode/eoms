@@ -39,8 +39,17 @@ public class EomsResponse<T> {
         return new EomsResponse<Object>(EomsResponseStatus.FAIL, HttpStatus.BAD_REQUEST.value());
     }
 
-    public EomsResponse<?> buildExtData(T data) {
+    public static EomsResponse<?> createOkEomsResponse(Object obj) {
+        return new EomsResponse<Object>(EomsResponseStatus.SUCCESS, HttpStatus.OK.value()).buildData(obj);
+    }
+
+    public EomsResponse<?> buildData(T data) {
         this.data = data;
+        return this;
+    }
+
+    public EomsResponse<?> buildMsg(String msg) {
+        this.msg = msg;
         return this;
     }
 

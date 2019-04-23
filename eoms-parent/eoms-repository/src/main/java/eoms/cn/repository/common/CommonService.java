@@ -1,9 +1,13 @@
 package eoms.cn.repository.common;
 
 import java.util.List;
-
+/**
+ * 通用数据层接口
+ * @author TTCODE
+ * @date 2019/04/23
+ */
 public interface CommonService<T> {
-    int insertList(List<T> recordList);
+    int insertBatchList(List<T> recordList);
 
     int deleteByPrimaryKey(String id);
 

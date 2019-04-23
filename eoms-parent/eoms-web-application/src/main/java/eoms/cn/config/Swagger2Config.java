@@ -26,7 +26,6 @@ public class Swagger2Config {
 		return new ApiInfoBuilder().title("Spring Boot中使用Swagger2构建RESTful APIs")// API
 																					// 标题
 				.description("EOMS提供的RESTful APIs")// API描述
-				.contact("tangtao@")// 联系人
 				.version("1.0")// 版本号
 				.build();
 	}

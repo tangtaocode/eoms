@@ -11,20 +11,12 @@ import tk.mybatis.mapper.common.Mapper;
 
 @RegisterMapper
 public interface CommonMapper<T> extends Mapper<T>,IdsMapper<T> {
-
+    /**
+     * 可批量插入预创建id集合
+     * @param recordList
+     * @return
+     */
     @Options(useGeneratedKeys = true, keyProperty = "id")
     @InsertProvider(type = SpecialBatchInsert.class, method = "dynamicSQL")
-    int insertList(List<T> recordList);
-
-    int deleteByPrimaryKey(String id);
-
-    int insert(T record);
-
-    int insertSelective(T record);
-
-    T selectByPrimaryKey(String id);
-
-    int updateByPrimaryKeySelective(T record);
-
-    int updateByPrimaryKey(T record);
+    int insertBatchList(List<T> recordList);
 }

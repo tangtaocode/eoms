@@ -1,9 +1,11 @@
 package eoms.cn.repository.entity;
 
+import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Table(name="p_everyday_everyseat_achievement")
 public class EverydayEeveryseatAchievement {
+    @Id
     private Long id;
 
     private Long projectId;

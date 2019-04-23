@@ -20,7 +20,7 @@ public class SpecialBatchInsert extends MapperTemplate {
      *
      * @param ms
      */
-    public String insertList(MappedStatement ms) {
+    public String insertBatchList(MappedStatement ms) {
         final Class<?> entityClass = getEntityClass(ms);
         StringBuilder sql = new StringBuilder();
         sql.append(SqlHelper.insertIntoTable(entityClass, tableName(entityClass)));
@@ -40,7 +40,7 @@ public class SpecialBatchInsert extends MapperTemplate {
     }
 
     /**
-     * 鎻掑叆锛屼富閿甶d锛岃嚜澧�
+     * 拼接接口
      *
      * @param ms
      */
