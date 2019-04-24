@@ -1,6 +1,7 @@
 package eoms.cn.api.controller.test;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
@@ -17,7 +18,7 @@ public class TestController {
     
     @PostMapping("/hello")
     @ApiOperation(value="测试接口", notes="测试接口")
-    public EomsResponse<?> hello(@RequestBody TestDTO dto) {
+    public EomsResponse<?> hello(@RequestBody @Validated TestDTO dto) {
         return testService.test(dto);
     }
 

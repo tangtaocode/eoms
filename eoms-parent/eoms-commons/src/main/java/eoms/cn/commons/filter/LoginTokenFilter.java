@@ -29,7 +29,7 @@ public class LoginTokenFilter implements Filter {
     @Override
     public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain)
         throws IOException, ServletException {
-        // TODO Auto-generated method stub
+        // TODO 实现token登陆验证，token可存放redis中
          
     }
 
