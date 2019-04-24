@@ -131,7 +131,7 @@ public class GlobalExceptionHandler {
         return exceptionFormat(999, ex, ex.getMsg());
     }
     /**
-          *   数据参数异常拦截
+     * 数据参数异常拦截
      * @param exception
      * @return
      */
