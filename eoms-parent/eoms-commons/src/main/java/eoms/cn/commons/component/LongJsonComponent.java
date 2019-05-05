@@ -33,7 +33,10 @@ public class LongJsonComponent {
         @Override
         public Long deserialize(JsonParser p, DeserializationContext ctxt) throws IOException, JsonProcessingException {
             // TODO Auto-generated method stub
-            return Long.getLong(p.getText());
+            if(ObjectUtils.isEmpty(p.getText())) {
+                return null;
+            }
+            return Long.parseLong(p.getText());
         }
 
     }
