@@ -1,7 +1,6 @@
  package eoms.cn.business.service.impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -10,7 +9,6 @@ import com.github.pagehelper.PageHelper;
 import eoms.cn.business.model.dto.TestDTO;
 import eoms.cn.business.service.TestService;
 import eoms.cn.commons.component.UidService;
-import eoms.cn.commons.exception.BusinessException;
 import eoms.cn.commons.response.EomsResponse;
 import eoms.cn.repository.entity.EverydayEeveryseatAchievement;
 import eoms.cn.repository.service.EverydayEeveryseatAchievementService;
